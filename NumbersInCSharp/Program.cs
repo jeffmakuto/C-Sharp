@@ -1,9 +1,9 @@
 ﻿using System;
 
-// WorkWithIntegers();
-// OrderPrecedence();
-// WorkWithDoubleDecimal();
-// TestLimits();
+WorkWithIntegers();
+OrderPrecedence();
+WorkWithDoubleDecimal();
+TestLimits();
 
 double radius = 2.50;
 double area = Math.PI * radius * radius;
