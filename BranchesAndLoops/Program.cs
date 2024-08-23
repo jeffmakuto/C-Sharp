@@ -1,6 +1,7 @@
 ﻿ExploreIf();
 WhileLoop();
 DoWhileLoop();
+ForLoop();
 
 void WhileLoop()
 {
@@ -20,6 +21,14 @@ void DoWhileLoop()
 		Console.WriteLine($"Hello World! The counter is {counter}");
 		counter++;
 	} while (counter < 10);
+}
+
+void ForLoop()
+{
+	for (int index = 0; index < 10; index++)
+	{
+		Console.WriteLine($"Hello! The index is {index}");
+	}
 }
 
 void ExploreIf()
