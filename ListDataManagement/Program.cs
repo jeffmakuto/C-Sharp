@@ -1,45 +1,49 @@
-﻿List<string> names = ["Jeff", "Joy", "Nikita"];
-foreach (var name in names)
-{
-	Console.WriteLine($"Hello {name.ToUpper()}!");
-}
+﻿WorkWithStrings();
 
-Console.WriteLine();
-names.Add("Maria");
-names.Add("Bill");
-names.Remove("Ana");
-foreach (var name in names)
+void WorkWithStrings()
 {
-	Console.WriteLine($"Hello {name.ToUpper()}!");
-}
+	List<string> names = ["Jeff", "Joy", "Nikita"];
+	foreach (var name in names)
+	{
+		Console.WriteLine($"Hello {name.ToUpper()}!");
+	}
 
-Console.WriteLine($"My name is {names[0]}");
-Console.WriteLine($"I've added {names[2]} and {names[3]} to the list");
-Console.WriteLine($"The list has {names.Count} people in it");
+	Console.WriteLine();
+	names.Add("Maria");
+	names.Add("Bill");
+	names.Remove("Ana");
+	foreach (var name in names)
+	{
+		Console.WriteLine($"Hello {name.ToUpper()}!");
+	}
 
-var index = names.IndexOf("Nikita");
-if (index == -1)
-{
-    Console.WriteLine($"When an item is not found, IndexOf returns {index}");
-}
-else
-{
-    Console.WriteLine($"The name {names[index]} is at index {index}");
-}
+	Console.WriteLine($"My name is {names[0]}");
+	Console.WriteLine($"I've added {names[2]} and {names[3]} to the list");
+	Console.WriteLine($"The list has {names.Count} people in it");
 
-index = names.IndexOf("Not Found");
-if (index == -1)
-{
-    Console.WriteLine($"When an item is not found, IndexOf returns {index}");
-}
-else
-{
-    Console.WriteLine($"The name {names[index]} is at index {index}");
+	var index = names.IndexOf("Nikita");
+	if (index == -1)
+	{
+		Console.WriteLine($"When an item is not found, IndexOf returns {index}");
+	}
+	else
+	{
+		Console.WriteLine($"The name {names[index]} is at index {index}");
+	}
 
-}
+	index = names.IndexOf("Not Found");
+	if (index == -1)
+	{
+		Console.WriteLine($"When an item is not found, IndexOf returns {index}");
+	}
+	else
+	{
+		Console.WriteLine($"The name {names[index]} is at index {index}");
+	}
 
-names.Sort();
-foreach (var name in names)
-{
-	Console.WriteLine($"Hello {name.ToUpper()}!");
+	names.Sort();
+	foreach (var name in names)
+	{
+		Console.WriteLine($"Hello {name.ToUpper()}!");
+	}
 }
