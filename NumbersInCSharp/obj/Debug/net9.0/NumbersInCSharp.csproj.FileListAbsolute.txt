@@ -1,0 +1,15 @@
+/root/C-Sharp/NumbersInCSharp/bin/Debug/net9.0/NumbersInCSharp
+/root/C-Sharp/NumbersInCSharp/bin/Debug/net9.0/NumbersInCSharp.deps.json
+/root/C-Sharp/NumbersInCSharp/bin/Debug/net9.0/NumbersInCSharp.runtimeconfig.json
+/root/C-Sharp/NumbersInCSharp/bin/Debug/net9.0/NumbersInCSharp.dll
+/root/C-Sharp/NumbersInCSharp/bin/Debug/net9.0/NumbersInCSharp.pdb
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.AssemblyInfo.cs
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.sourcelink.json
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.dll
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/refint/NumbersInCSharp.dll
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.pdb
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/NumbersInCSharp.genruntimeconfig.cache
+/root/C-Sharp/NumbersInCSharp/obj/Debug/net9.0/ref/NumbersInCSharp.dll
