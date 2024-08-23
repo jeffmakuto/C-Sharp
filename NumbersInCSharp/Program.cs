@@ -1,5 +1,6 @@
 ﻿// WorkWithIntegers();
-OrderPrecedence();
+// OrderPrecedence();
+WorkWithDoubleDecimal();
 
 void WorkWithIntegers()
 {
@@ -40,4 +41,15 @@ void OrderPrecedence()
 	int g = 3;
 	int h = (e + f) / g;
 	Console.WriteLine(h);
+}
+
+void WorkWithDoubleDecimal()
+{
+	double a = 1.0;
+	double b = 3.0;
+	Console.WriteLine(a / b);
+
+	decimal c = 1.0M;
+	decimal d = 3.0M;
+	Console.WriteLine(c / d);
 }
