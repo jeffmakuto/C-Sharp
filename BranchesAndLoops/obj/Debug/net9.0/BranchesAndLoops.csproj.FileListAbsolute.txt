@@ -1,0 +1,15 @@
+/root/C-Sharp/BranchesAndLoops/bin/Debug/net9.0/BranchesAndLoops
+/root/C-Sharp/BranchesAndLoops/bin/Debug/net9.0/BranchesAndLoops.deps.json
+/root/C-Sharp/BranchesAndLoops/bin/Debug/net9.0/BranchesAndLoops.runtimeconfig.json
+/root/C-Sharp/BranchesAndLoops/bin/Debug/net9.0/BranchesAndLoops.dll
+/root/C-Sharp/BranchesAndLoops/bin/Debug/net9.0/BranchesAndLoops.pdb
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.AssemblyInfo.cs
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.sourcelink.json
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.dll
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/refint/BranchesAndLoops.dll
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.pdb
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/BranchesAndLoops.genruntimeconfig.cache
+/root/C-Sharp/BranchesAndLoops/obj/Debug/net9.0/ref/BranchesAndLoops.dll
