@@ -1,5 +1,12 @@
 ﻿ExploreIf();
 
+int counter = 0;
+while (counter < 10)
+{
+	Console.WriteLine($"Hi! The counter is {counter}");
+	counter++;
+}
+
 void ExploreIf()
 {
 	int a = 5;
