@@ -16,3 +16,24 @@ foreach (var name in names)
 Console.WriteLine($"My name is {names[0]}");
 Console.WriteLine($"I've added {names[2]} and {names[3]} to the list");
 Console.WriteLine($"The list has {names.Count} people in it");
+
+var index = names.IndexOf("Nikita");
+if (index == -1)
+{
+    Console.WriteLine($"When an item is not found, IndexOf returns {index}");
+}
+else
+{
+    Console.WriteLine($"The name {names[index]} is at index {index}");
+}
+
+index = names.IndexOf("Not Found");
+if (index == -1)
+{
+    Console.WriteLine($"When an item is not found, IndexOf returns {index}");
+}
+else
+{
+    Console.WriteLine($"The name {names[index]} is at index {index}");
+
+}
