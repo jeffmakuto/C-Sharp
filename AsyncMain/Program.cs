@@ -1,24 +1,13 @@
-﻿class AsyncMain()
+﻿class Program
 {
-	public static int Main()
+	static async Task<int> Main(string[] args)
 	{
-		/* 
-		 * Call the async method and wait syncronously for it to
-		 * complete.
-		 * GetAwaiter().GetResult() is used to block the main thread
-		 * until the asyncronous operation completes
-		 */
-		return AsyncConsoleWork().GetAwaiter().GetResult();
+		return await AsyncConsoleWork();
 	}
-
-	// Async method that returns a Task<int>
+	
 	private static async Task<int> AsyncConsoleWork()
 	{
-		/*
-		 * Main body of the async method
-		 * Perform asynchronous operations here
-		 * Returning 0 as the result of the task
-		 */
+		// main body here
 		return 0;
 	}
 }
