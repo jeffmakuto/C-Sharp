@@ -1,0 +1,15 @@
+/root/C-Sharp/ListDataManagement/bin/Debug/net9.0/ListDataManagement
+/root/C-Sharp/ListDataManagement/bin/Debug/net9.0/ListDataManagement.deps.json
+/root/C-Sharp/ListDataManagement/bin/Debug/net9.0/ListDataManagement.runtimeconfig.json
+/root/C-Sharp/ListDataManagement/bin/Debug/net9.0/ListDataManagement.dll
+/root/C-Sharp/ListDataManagement/bin/Debug/net9.0/ListDataManagement.pdb
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.AssemblyInfoInputs.cache
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.AssemblyInfo.cs
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.csproj.CoreCompileInputs.cache
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.sourcelink.json
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.dll
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/refint/ListDataManagement.dll
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.pdb
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ListDataManagement.genruntimeconfig.cache
+/root/C-Sharp/ListDataManagement/obj/Debug/net9.0/ref/ListDataManagement.dll
