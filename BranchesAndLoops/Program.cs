@@ -2,6 +2,7 @@
 WhileLoop();
 DoWhileLoop();
 ForLoop();
+NestedLoop();
 
 void WhileLoop()
 {
@@ -28,6 +29,17 @@ void ForLoop()
 	for (int index = 0; index < 10; index++)
 	{
 		Console.WriteLine($"Hello! The index is {index}");
+	}
+}
+
+void NestedLoop()
+{
+	for (int row = 1; row < 11; row++)
+	{
+		for (char column = 'a'; column < 'k'; column++)
+		{
+			Console.WriteLine($"The cell is ({row}, {column})");
+		}
 	}
 }
 
