@@ -1,0 +1,15 @@
+/root/C-Sharp/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp
+/root/C-Sharp/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.deps.json
+/root/C-Sharp/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.runtimeconfig.json
+/root/C-Sharp/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.dll
+/root/C-Sharp/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.pdb
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfoInputs.cache
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfo.cs
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.sourcelink.json
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.dll
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/refint/MyConsoleApp.dll
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.pdb
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.genruntimeconfig.cache
+/root/C-Sharp/MyConsoleApp/obj/Debug/net9.0/ref/MyConsoleApp.dll
