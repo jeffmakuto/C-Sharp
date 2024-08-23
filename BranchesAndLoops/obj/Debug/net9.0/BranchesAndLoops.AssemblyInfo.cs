@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BranchesAndLoops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4a59d1c8b27d6b1ee75344a6356fe653b2fa717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+562ea52d65682e78c8314ed1e597c0e87f26e493")]
 [assembly: System.Reflection.AssemblyProductAttribute("BranchesAndLoops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BranchesAndLoops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
