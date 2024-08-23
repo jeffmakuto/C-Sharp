@@ -1,0 +1,15 @@
+/root/C-Sharp/AsyncMain/bin/Debug/net9.0/AsyncMain
+/root/C-Sharp/AsyncMain/bin/Debug/net9.0/AsyncMain.deps.json
+/root/C-Sharp/AsyncMain/bin/Debug/net9.0/AsyncMain.runtimeconfig.json
+/root/C-Sharp/AsyncMain/bin/Debug/net9.0/AsyncMain.dll
+/root/C-Sharp/AsyncMain/bin/Debug/net9.0/AsyncMain.pdb
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.AssemblyInfoInputs.cache
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.AssemblyInfo.cs
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.csproj.CoreCompileInputs.cache
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.sourcelink.json
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.dll
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/refint/AsyncMain.dll
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.pdb
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/AsyncMain.genruntimeconfig.cache
+/root/C-Sharp/AsyncMain/obj/Debug/net9.0/ref/AsyncMain.dll
