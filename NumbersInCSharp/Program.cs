@@ -1,7 +1,13 @@
-﻿// WorkWithIntegers();
+﻿using System;
+
+// WorkWithIntegers();
 // OrderPrecedence();
 // WorkWithDoubleDecimal();
-TestLimits();
+// TestLimits();
+
+double radius = 2.50;
+double area = Math.PI * radius * radius;
+Console.WriteLine(area);
 
 void WorkWithIntegers()
 {
