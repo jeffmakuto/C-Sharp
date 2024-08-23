@@ -1,0 +1,15 @@
+/root/C-Sharp/MainReturnValue/bin/Debug/net9.0/MainReturnValTest
+/root/C-Sharp/MainReturnValue/bin/Debug/net9.0/MainReturnValTest.deps.json
+/root/C-Sharp/MainReturnValue/bin/Debug/net9.0/MainReturnValTest.runtimeconfig.json
+/root/C-Sharp/MainReturnValue/bin/Debug/net9.0/MainReturnValTest.dll
+/root/C-Sharp/MainReturnValue/bin/Debug/net9.0/MainReturnValTest.pdb
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.GeneratedMSBuildEditorConfig.editorconfig
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.AssemblyInfoInputs.cache
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.AssemblyInfo.cs
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.csproj.CoreCompileInputs.cache
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.sourcelink.json
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.dll
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/refint/MainReturnValTest.dll
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.pdb
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/MainReturnValTest.genruntimeconfig.cache
+/root/C-Sharp/MainReturnValue/obj/Debug/net9.0/ref/MainReturnValTest.dll
